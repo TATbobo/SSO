@@ -1,0 +1,3 @@
+#◊‘∂Ø≈‰÷√
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.tucker.sso.ssoclient1.TestAnnotation.HelloAutoConfiguration

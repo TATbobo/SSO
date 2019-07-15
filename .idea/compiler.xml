@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sso-server" />
-        <module name="sso-client1" />
         <module name="sso-client2" />
+        <module name="sso-client1" />
+        <module name="sso-server" />
       </profile>
     </annotationProcessing>
   </component>
